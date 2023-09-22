@@ -4,6 +4,7 @@ on:
   push:
     branches:
     - main
+  workflow_dispatch:
 
 jobs:
   build-deploy:
@@ -20,6 +21,9 @@ jobs:
 
     - name: Build                                
       run: hugo
+
+    - name: Create CNAME
+      run: echo 'crieaporradeum.blog' >  ./public/CNAME
 
     - name: Deploy                               
       uses: peaceiris/actions-gh-pages@v2

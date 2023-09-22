@@ -36,7 +36,7 @@ Fodam-se eles.
 
 ## Como criar a porra do seu blog
 
-É fácil pra caralho. Você pode clonar esse repositório no GitHub, editar a porra toda e aí [publicar no Netlify](https://docs.netlify.com/get-started/). Essa versão em português usa um gerador de sites estáticos chamado [Hugo](https://gohugo.io/). O original em inglês é feito com [Jekyll](https://jekyllrb.com/). Tem uma [caralhada de outros geradores](https://staticsitegenerators.net/), esses são só 2 dos mais famosos.
+É fácil pra caralho. Você pode [clonar esse repositório no GitHub](https://github.com/gmgall/crieumblog), editar a porra toda e aí [publicar no Netlify](https://docs.netlify.com/get-started/). Essa versão em português usa um gerador de sites estáticos chamado [Hugo](https://gohugo.io/). O original em inglês é feito com [Jekyll](https://jekyllrb.com/). Tem uma [caralhada de outros geradores](https://staticsitegenerators.net/), esses são só 2 dos mais famosos.
 
 Virou os olhos só de ler o parágrafo acima? Não quer mexer com essas merdas todas? Crie seu blog na porra do [Bear Blog](https://bearblog.dev/) então.
 

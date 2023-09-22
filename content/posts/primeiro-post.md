@@ -12,7 +12,7 @@ Dá para colocar qualquer tipo de merda nos posts. Imagens, citações, destaque
 
 Olha essa imagem foda [com licença Creative Commons](https://commons.wikimedia.org/wiki/File:Catedral_de_Petr%C3%B3polis.jpg):
 
-{{< figure src="/catedral_de_petropolis.jpg" alt="Catedral de Petrópolis-RJ" class="notice" title="Catedral de Petrópolis em foto feita por Filipo Tardim"  >}}
+{{< figure src="/images/catedral_de_petropolis.jpg" alt="Catedral de Petrópolis-RJ" class="notice" title="Catedral de Petrópolis em foto feita por Filipo Tardim"  >}}
 
 Olha essa citação de Karl Marx:
 

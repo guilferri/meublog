@@ -54,7 +54,7 @@ Aí edite seu perfil no X para dizer algo como...
 
 Use o *Xitter* só para postar links para o seu o seu novíssimo e maneiro pra caralho blog.
 
-![Logo antigo do Twitter, o pássaro azul, em chamas](/twitter_on_fire.gif) 
+![Logo antigo do Twitter, o pássaro azul, em chamas](/images/twitter_on_fire.gif) 
 
 ## Falando sério agora
 

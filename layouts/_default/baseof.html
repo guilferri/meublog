@@ -8,6 +8,7 @@
 </head>
 <body>
   <header>
+    {{ partial "nav.html" . }}
     <h1>{{ .Title }}</h1>
     <p>{{ .Page.Params.Subtitle }}</p>
   </header>

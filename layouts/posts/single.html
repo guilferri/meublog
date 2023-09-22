@@ -1,0 +1,6 @@
+{{ define "main" }}
+  <main>
+    <small>Texto de <time>{{ time.Format "2 de January de 2006" .Date }}</time></small>
+    {{ .Content }}
+  </main>
+{{ end }}

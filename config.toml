@@ -1,0 +1,5 @@
+baseURL = 'https://crieaporradeum.blog/'
+languageCode = 'pt-br'
+defaultContentLanguage = 'pt-br'
+title = 'Crie a Porra de um Blog'
+disableKinds = ['taxonomy', 'taxonomyTerm']

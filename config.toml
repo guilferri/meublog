@@ -1,7 +1,7 @@
-baseURL = 'https://crieaporradeum.blog/'
+baseURL = 'https://guilferri.netlify.com/'
 languageCode = 'pt-br'
 defaultContentLanguage = 'pt-br'
-title = 'Crie a Porra de um Blog'
+title = 'Guilherme Ferreira'
 disableKinds = ['taxonomy', 'taxonomyTerm']
 
 [menu]

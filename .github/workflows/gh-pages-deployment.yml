@@ -23,7 +23,7 @@ jobs:
       run: hugo
 
     - name: Create CNAME
-      run: echo 'crieaporradeum.blog' >  ./public/CNAME
+      run: echo 'guilferri.netlify.com' >  ./public/CNAME
 
     - name: Deploy                               
       uses: peaceiris/actions-gh-pages@v2
